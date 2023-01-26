@@ -1,0 +1,5 @@
+b = format(9, "b")
+c = format(30, "b")
+print(bin(9))
+print(b)
+print(c)
