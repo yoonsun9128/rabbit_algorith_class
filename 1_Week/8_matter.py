@@ -1,6 +1,5 @@
 def solution(a,b):
     result = 0
-    total_list = []
     for i in range(a,b+1):
         print("sss", i)
         count = 0
